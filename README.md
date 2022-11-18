@@ -1,3 +1,5 @@
+Am a blockchain & Web3 Software developer 
+
 ![ezgif-7-42be3dd61ae9](https://media.giphy.com/media/PpVjpSOjZDn9lfPE2L/giphy.gif)
 
 # on play
