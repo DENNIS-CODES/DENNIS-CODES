@@ -2,7 +2,7 @@
 My Name is Dennis and Am a blockchain, Web3 Software developer
 ```
 
-<img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474jorlk14iq71lc92cyka3wjgwb9afrndd8fkft4g&rid=giphy.gif&ct=g" width="250" height="250" /><img src="https://media.giphy.com/media/PpVjpSOjZDn9lfPE2L/giphy.gif" width="350" height="250" />
+<img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474jorlk14iq71lc92cyka3wjgwb9afrndd8fkft4g&rid=giphy.gif&ct=g" width="250" height="250" />
 
 # on play
 <p>
