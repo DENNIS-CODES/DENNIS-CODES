@@ -1,38 +1,5 @@
 ```
 My Name is Dennis and Am a blockchain, Web3 Software developer
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
-
-[typing...]
 ```
 
 <img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474jorlk14iq71lc92cyka3wjgwb9afrndd8fkft4g&rid=giphy.gif&ct=g" width="250" height="250" />
