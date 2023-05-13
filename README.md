@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474jorlk14iq71lc92cyka3wjgwb9afrndd8fkft4g&rid=giphy.gif&ct=g" width="250" height="250" />
 
-## 🌟 A _Web3 Blockchain Maestro_ diving into the decentralized abyss 🌊
+## 🌟 A _Web3 Blockchain Maestro_ diving into the decentralized realm 🌊
 ```
 As a full stack developer I'm deeply passionate about developing cutting-edge solutions using **blockchain technology**
 that make a _positive impact_ on people's lives. I'm always pushing the envelope 💌 and 
