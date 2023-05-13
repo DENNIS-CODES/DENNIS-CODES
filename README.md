@@ -4,7 +4,7 @@
 
 ## 🌟 A _Web3 Blockchain Maestro_ diving into the decentralized abyss 🌊
 ```
-I'm deeply passionate about developing cutting-edge solutions using **blockchain technology**
+As a full stack developer I'm deeply passionate about developing cutting-edge solutions using **blockchain technology**
 that make a _positive impact_ on people's lives. I'm always pushing the envelope 💌 and 
 challenging myself to think beyond the conventional.
 ```
