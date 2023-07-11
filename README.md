@@ -70,16 +70,16 @@ me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacu
 <br />
 ### 👨‍💻 Programming languages & Farmwork
 
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-FFFFFF?logo=solidity&logoColor=black"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361DAFB"></a> 
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-FFFFFF?logo=solidity&logoColor=black"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361DAFB"></a> 
+<a href="https://github.com/DENNIS-CODES"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
+<a href="https://github.com/DENNIS-CODES"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
 <br />
 
 <details>
