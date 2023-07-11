@@ -69,18 +69,18 @@ me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacu
 
 <br />
 
-### 👨‍💻 Programming languages & Farmwork
+### 👨‍💻 Programming languages & Frameworks
 
-<a href="https://github.com/DENNIS-CODES"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-FFFFFF?logo=solidity&logoColor=black"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361DAFB"></a> 
-<a href="https://github.com/DENNIS-CODES"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
-<a href="https://github.com/DENNIS-CODES"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://github.com/DENNIS-CODES)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/DENNIS-CODES)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/DENNIS-CODES)
+[![Pine Script](https://img.shields.io/badge/-Pine%20Script-0D3461?logo=tradingview&logoColor=white)](https://github.com/DENNIS-CODES)
+[![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://github.com/DENNIS-CODES)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/DENNIS-CODES)
+[![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)](https://github.com/DENNIS-CODES)
+[![React](https://img.shields.io/badge/-React-%2320232a?logo=react&logoColor=%2361DAFB)](https://github.com/DENNIS-CODES)
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&logoColor=white)](https://github.com/DENNIS-CODES)
+
 <br />
 
 <details>
