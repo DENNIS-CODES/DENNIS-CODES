@@ -1,11 +1,19 @@
-# 👋 Hey there, I'm Dennis 🚀
-
-<p align-"start">
+<h3 align="center">
+👋 Hey There, I'm Dennis 🚀
+</h3>
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=700&height=60&lines=Full-Stack+Software+Developer;Experienced+in+Automation%2C+Web+and+Blockchain+Development;Always+learning+new+things"></a>
 </p>
+<div align="center">
 <img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474jorlk14iq71lc92cyka3wjgwb9afrndd8fkft4g&rid=giphy.gif&ct=g" width="250" height="250" />
+</div>
 
+<br/>
+
+```
 ## 🌟 A _Web3 Blockchain Maestro_ diving into the decentralized realm 🌊
+```
+
 ```
 As a full stack developer I'm deeply passionate about developing cutting-edge solutions using **blockchain technology**
 that make a _positive impact_ on people's lives. I'm always pushing the envelope 💌 and 
@@ -51,21 +59,28 @@ If the idea of collaborating on a project or simply discussing the latest breakt
 in web3 piques your interest, don't hesitate to connect with me on [LinkedIn]() or shoot 
 me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacular! ✨
 ```
+### 👨‍💻 Programming languages & Farmwork
 
-<div style="display: inline-flex;">
-  <a href="https://www.linkedin.com/in/dennis-mwangi-dev/">
-    <img src="https://github.com/DENNIS-CODES/DENNIS-CODES/assets/65861136/726d5bcd-f781-4bd0-950f-803ab0471fb5" alt="image">
-  </a>
-  <a href="https://github.com/DENNIS-CODES/DENNIS-CODES/assets/65861136/9d050437-43ee-4bd0-a676-0612bb5f70d9">
-    <img src="https://github.com/DENNIS-CODES/DENNIS-CODES/assets/65861136/cf3b7ec4-2fb4-4e15-94ea-61018700fd0e" alt="image">
-  </a>
-  <a href="https://github.com/DENNIS-CODES/DENNIS-CODES/assets/65861136/89fd32ba-ee10-4e00-87a3-8c12b35bcfd5">
-    <img src="https://github.com/DENNIS-CODES/DENNIS-CODES/assets/65861136/89fd32ba-ee10-4e00-87a3-8c12b35bcfd5" alt="image">
-  </a>
-  <a href="https://github.com/DENNIS-CODES/DENNIS-CODES/assets/65861136/9617f3ca-28ca-4a20-969c-e16bbf29b0ed">
-    <img src="https://github.com/DENNIS-CODES/DENNIS-CODES/assets/65861136/9617f3ca-28ca-4a20-969c-e16bbf29b0ed" alt="image">
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-FFFFFF?logo=solidity&logoColor=black"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361DAFB"></a> 
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+<br />
+
+### Connect with me:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DENNIS-CODES)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mwangi-dev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dennis@ngeni.io)
+
+
+<br />
 
 <details>
 <summary>📊 Wakatime Stats</summary>
