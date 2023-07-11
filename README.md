@@ -59,8 +59,16 @@ If the idea of collaborating on a project or simply discussing the latest breakt
 in web3 piques your interest, don't hesitate to connect with me on [LinkedIn]() or shoot 
 me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacular! ✨
 ```
-### 👨‍💻 Programming languages & Farmwork
 
+
+### Connect with me:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DENNIS-CODES)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mwangi-dev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dennis@ngeni.io)
+
+
+<br />
+### 👨‍💻 Programming languages & Farmwork
 
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -72,14 +80,6 @@ me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacu
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361DAFB"></a> 
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
-<br />
-
-### Connect with me:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DENNIS-CODES)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mwangi-dev/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dennis@ngeni.io)
-
-
 <br />
 
 <details>
