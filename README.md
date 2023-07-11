@@ -68,6 +68,7 @@ me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacu
 
 
 <br />
+
 ### 👨‍💻 Programming languages & Farmwork
 
 <a href="https://github.com/DENNIS-CODES"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -84,10 +85,10 @@ me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacu
 
 <details>
 <summary>📊 Wakatime Stats</summary>
-
 [![wakatime](https://wakatime.com/badge/user/c0971448-fd44-49e6-a4cd-84cb788254c2.svg)](https://wakatime.com/@c0971448-fd44-49e6-a4cd-84cb788254c2)
-
 </details>
+
+<br />
 
 # on play
 <p>
