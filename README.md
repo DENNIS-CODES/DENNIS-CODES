@@ -42,7 +42,7 @@ and Near. My strengths lie in smart contract development, blockchain integration
 I believe that blockchain technology has the potential to create a more transparent, secure, and equitable world. I'm committed to using my skills and expertise to build systems that are not only technically sound but also socially responsible.
 
 <details>
-<summary>🎨 Masterpieces I've crafted</summary>
+<summary>click here👉 Masterpieces I've crafted🎨</summary>
 
 | Project                                          | Description                                                                                                                   |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
