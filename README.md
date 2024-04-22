@@ -2,7 +2,7 @@
 👋 Hey There, I'm Dennis 🚀
 </h3>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=228B22&center=true&width=700&height=60&lines=Full-Stack+Software+Developer;Experienced+in+Automation%2C+Web3+and+Blockchain+Development;Always+learning+new+things"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&center=true&width=700&height=60&lines=Full-Stack+Software+Developer;Experienced+in+Automation%2C+Web3+and+Blockchain+Development;Always+learning+new+things"></a>
 </p>
 <div align="center">
 <img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474jorlk14iq71lc92cyka3wjgwb9afrndd8fkft4g&rid=giphy.gif&ct=g" width="250" height="250" />
