@@ -10,29 +10,16 @@
 
 <br/>
 
-```
-🌟 A Web3 Blockchain Maestro diving into the decentralized realm 🌊
-```
-
-```
-As a full stack developer I'm deeply passionate about developing cutting-edge solutions using **blockchain technology**
-that make a _positive impact_ on people's lives. I'm always pushing the envelope 💌 and 
-challenging myself to think beyond the conventional.
+## Full-Stack Web3 Developer | CTO | Leading Blockchain & Fintech Innovation
 ```
 
-### 🧪 Experimenting with the decentralized universe
-```
-Right now, I'm all about crafting decentralized applications (dApps) that harness the sheer power
-of blockchain technology. My curiosity leads me to explore novel ideas and tinker with various protocols
-and platforms to discover the best concoctions and unleash the potential of **Web3**.
+Blending expertise in TypeScript, Next.js, Rust, and a growing carrier on Blockchain and web3 technologies,
+I lead the creation of advanced, hybrid, user-friendly fintech and blockchain applications.
+My broad expertise enables me to architect and refine systems that power progressive financial services.
+With strategic leadership to elevate team performance and product innovation. 
+Connect to discuss how we can make financial technology smarter and more intuitive together.
 ```
 
-## 💻 My arsenal of technical wizardry</summary>
-```
-Armed with expertise in **Solidity**, **JavaScript**, **TypeScript**, and six other programming languages,
-I have delved into diverse blockchain platforms such as Ethereum, Abitrum, Cardano, Solana, Avalanche, Polkadot,
-and Near. My strengths lie in smart contract development, blockchain integration, and web3 development.
-```
 <p>
   <img src="https://assets.website-files.com/6347bd6199b204194ca76e2c/6390bab08a8b41f55c7d0fd1_Home_3.png" width="600" height="100" alt="image">
 </p>
@@ -56,8 +43,7 @@ I believe that blockchain technology has the potential to create a more transpar
 ### 🤝 Let's join forces
 ```
 If the idea of collaborating on a project or simply discussing the latest breakthroughs
-in web3 piques your interest, don't hesitate to connect with me on [LinkedIn]() or shoot 
-me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacular! ✨
+in web3 piques your interest, don't hesitate to connect with me on ✨
 ```
 
 
@@ -93,6 +79,6 @@ me an email at dennis@ngeni.io. Together, we'll conjure something truly spectacu
 # on play
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tgnwjszvmdjuof7uuziii3n6y4&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false" />
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)" />
   </a>
 </p>
