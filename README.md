@@ -79,6 +79,6 @@ in web3 piques your interest, don't hesitate to connect with me on ✨
 # on play
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)" />
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true))" />
   </a>
 </p>
