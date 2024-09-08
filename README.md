@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 Hey There, I'm Dennis 🚀
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hand" /> Hey There, I'm Dennis 🚀
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&center=true&width=700&height=60&lines=Full-Stack+Software+Developer;Experienced+in+Automation%2C+Web3+and+Blockchain+Development;Always+learning+new+things"></a>
