@@ -108,13 +108,38 @@ I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years
 
 ## 📈 My Key Projects:
 
-| Project                                    | Description                                                                                                                 |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| 🔗 **Decentralized Social Media Platform** | A blockchain-powered platform that empowers users with data sovereignty and privacy.                                        |
-| 💰 **DollarsApp**                          | A DeFi platform enabling seamless cross-border currency trades, optimized for speed and scalability.                        |
-| 🖼️ **NFT Marketplace**                     | Built a multi-chain NFT marketplace allowing artists to mint, showcase, and sell their works across blockchains.            |
-| 🤖 **High-Frequency Trading Bots**         | Developed AI-powered bots that trade across various markets, using advanced strategies like arbitrage and momentum trading. |
-| 🏦 **BullX**                               | A DeFi platform offering staking, borrowing, and decentralized trading solutions.                                           |
+<p align="center">
+  <details>
+    <summary><b>Click here to explore my Key Projects 🚀</b></summary>
+    <p align="center">Take a deep dive into the projects I've been building. Check out the details below!</p>
+    <table align="center">
+      <tr>
+        <td><b>Project</b></td>
+        <td><b>Description</b></td>
+      </tr>
+      <tr>
+        <td>🔗 <b>warp cast Decentralized X Platform</b></td>
+        <td>A blockchain-powered platform that empowers users with data sovereignty and privacy.</td>
+      </tr>
+      <tr>
+        <td>💰 <b>DollarsApp</b></td>
+        <td>A DeFi platform enabling seamless cross-border currency trades, optimized for speed and scalability.</td>
+      </tr>
+      <tr>
+        <td>🖼️ <b>NFT Marketplace</b></td>
+        <td>Built a multi-chain NFT marketplace allowing artists to mint, showcase, and sell their works across blockchains.</td>
+      </tr>
+      <tr>
+        <td>🤖 <b>High-Frequency Trading Bots</b></td>
+        <td>Developed AI-powered bots that trade across various markets, using advanced strategies like arbitrage and momentum trading.</td>
+      </tr>
+      <tr>
+        <td>🏦 <b>BullX</b></td>
+        <td>A DeFi platform offering staking, borrowing, and decentralized trading solutions.</td>
+      </tr>
+    </table>
+  </details>
+</p>                                        
 
 ---
 
