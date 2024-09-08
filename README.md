@@ -26,28 +26,57 @@ I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years
 
 ## ⚡ Tech Stack:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Web3.js-000000?style=flat&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PineScript-009999?style=flat&logo=tradingview&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <table>
+    <tr>
+      <td align="center"><b>Core Languages</b></td>
+      <td align="center"><b>Frontend Development</b></td>
+      <td align="center"><b>Backend Development</b></td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Blockchain Development</b></td>
+      <td align="center"><b>Databases & Connectors</b></td>
+      <td align="center"><b>DevOps & Cloud Services</b></td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Web3.js-000000?style=flat&logo=web3.js&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -85,7 +114,7 @@ I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years
 | 💰 **DollarsApp**                          | A DeFi platform enabling seamless cross-border currency trades, optimized for speed and scalability.                        |
 | 🖼️ **NFT Marketplace**                     | Built a multi-chain NFT marketplace allowing artists to mint, showcase, and sell their works across blockchains.            |
 | 🤖 **High-Frequency Trading Bots**         | Developed AI-powered bots that trade across various markets, using advanced strategies like arbitrage and momentum trading. |
-| 🏦 **BullX**                        | A DeFi platform offering staking, borrowing, and decentralized trading solutions.                                           |
+| 🏦 **BullX**                               | A DeFi platform offering staking, borrowing, and decentralized trading solutions.                                           |
 
 ---
 
