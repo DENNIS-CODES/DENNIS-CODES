@@ -49,7 +49,6 @@ I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 💻 Coding Stats:
