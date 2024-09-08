@@ -110,7 +110,7 @@ I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years
 
 <p align="center">
   <details>
-    <summary><b>Click here or visit my public repository to explore my Key Projects 🚀</b></summary>
+    <summary><b><span style="color: #FFA500; text-decoration: underline; cursor: pointer;">Click here</span> or visit my public repository to explore my Key Projects 🚀</b></summary>
     <p align="center">Take a deep dive into the projects I've been building. Check out the details below!</p>
     <table align="center">
       <tr>
@@ -139,7 +139,7 @@ I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years
       </tr>
     </table>
   </details>
-</p>                                        
+</p>
 
 ---
 
