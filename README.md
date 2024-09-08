@@ -1,86 +1,119 @@
+![](./public/logo.png)
+
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hand" /> Hey There, I'm Dennis 🚀
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi, I'm Dennis Mwangi 🚀
 </h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&center=true&width=700&height=60&lines=Full-Stack+Software+Developer;Experienced+in+Automation%2C+Web3+and+Blockchain+Development;Always+learning+new+things"></a>
+<a href="https://github.com/DENNIS-CODES">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Dennis;+Welcome+to+My+GitHub+Profile!;Blockchain+Developer;Full-Stack+Web3+Developer;7%2B+years+of+coding+experience;Building+Fintech+and+DeFi+Innovations;Always+learning+and+innovating&font=Pacifico&center=true&width=750&height=120&color=FFA500&vCenter=true&size=45">
+</a>
+
 </p>
+
+---
+
+## 🌍 About Me:
+
+I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years of experience** in **blockchain**, **DeFi**, **fintech**, and **AI-driven** solutions. I specialize in **building scalable systems**, leading **high-impact projects**, and creating innovative solutions that push the boundaries of technology.
+
+- 🔧 **Currently Working On**: Multi-chain wallet integrations, DeFi & Centralised exchanges, and **H**igh **F**requency **T**rading bots.
+- 🌱 **Learning**: Staying ahead with Rust, Zero-Knowledge Proofs, and AI in blockchain.
+- 🎮 **Fun Fact**: When I'm not coding, I enjoy gaming and deep-diving into the latest crypto trends!
+
+---
+
+## ⚡ Tech Stack:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Web3.js-000000?style=flat&logo=web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Coding Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DENNIS-CODES&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DENNIS-CODES&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</p>
+
 <div align="center">
-<img src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b761103jtjklbh500mhlp00a19i8egcbtpe9961bvzzzn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DENNIS-CODES&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
+  
 </div>
 
-<br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DENNIS-CODES&bg_color=eec4da&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Full-Stack Web3 Developer | CTO | Leading Blockchain & Fintech Innovation
-```
+---
 
-Blending expertise in TypeScript, Next.js, Rust, and a growing carrier on Blockchain and web3 technologies,
-I lead the creation of advanced, hybrid, user-friendly fintech and blockchain applications.
-My broad expertise enables me to architect and refine systems that power progressive financial services.
-With strategic leadership to elevate team performance and product innovation. 
-Connect to discuss how we can make financial technology smarter and more intuitive together.
-```
+## 🏆 Achievements:
 
-<p>
-  <img src="https://assets.website-files.com/6347bd6199b204194ca76e2c/6390bab08a8b41f55c7d0fd1_Home_3.png" width="600" height="100" alt="image">
+- ⭐ **50+ Stars** on key blockchain projects.
+- 📚 **10,000+ hours** of coding on GitHub in the last 5 years.
+- 🚀 Delivered **15+ DeFi projects** from idea to production.
+- 🌍 **Mentored** 50+ junior developers in Web3 and blockchain.
+- 🔑 Lead architect of **multi-chain wallet integration** on Ethereum, Solana, and TON.
+
+---
+
+## 📈 My Key Projects:
+
+| Project                                    | Description                                                                                                                 |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| 🔗 **Decentralized Social Media Platform** | A blockchain-powered platform that empowers users with data sovereignty and privacy.                                        |
+| 💰 **DollarsApp**                          | A DeFi platform enabling seamless cross-border currency trades, optimized for speed and scalability.                        |
+| 🖼️ **NFT Marketplace**                     | Built a multi-chain NFT marketplace allowing artists to mint, showcase, and sell their works across blockchains.            |
+| 🤖 **High-Frequency Trading Bots**         | Developed AI-powered bots that trade across various markets, using advanced strategies like arbitrage and momentum trading. |
+| 🏦 **BullX**                        | A DeFi platform offering staking, borrowing, and decentralized trading solutions.                                           |
+
+---
+
+## 💬 Fun Fact:
+
+When I'm not coding, I’m probably **exploring crypto trends**, binge-watching **sci-fi shows**, or **gaming**. Also, if you ever want to talk **blockchain memes** or **fun crypto facts**, hit me up!
+
+---
+
+## 📬 Contact Me:
+
+<p align="center">
+  <a href="https://github.com/DENNIS-CODES"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/dennis-mwangi-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dennis@ngeni.io"><img src="https://img.shields.io/badge/Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://t.me/dennismwangi"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
-### 🌍 My guiding philosophy
+---
 
-I believe that blockchain technology has the potential to create a more transparent, secure, and equitable world. I'm committed to using my skills and expertise to build systems that are not only technically sound but also socially responsible.
+## 📊 Trophies and Stats:
 
-<details>
-<summary>click here👉 Masterpieces I've crafted🎨</summary>
-
-| Project                                          | Description                                                                                                                   |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| 🔗 **Decentralized Social Media Platform**        | A resilient, privacy-centric social media dApp that enables users to reclaim control over their data.                          |
-| 🖼️ **NFT Marketplace**                           | A decentralized bazaar for trading digital masterpieces and collectibles, empowering creators to reap the rewards of their artistry. |
-| 💰 **Decentralized Finance (DeFi) Platform**      | A DeFi platform offering users access to a plethora of financial services such as lending, borrowing, and staking – all nestled within a decentralized ecosystem. |
-| 🤖 **Trading Bots & Strategies**                  | Developed algorithmic trading bots for various markets, including crypto, using advanced strategies like arbitrage, mean reversion, and momentum trading, maximizing profits while minimizing risks. |
-
-</details>
-
-### 🤝 Let's join forces
-```
-If the idea of collaborating on a project or simply discussing the latest breakthroughs
-in web3 piques your interest, don't hesitate to connect with me on ✨
-```
-
-
-### Connect with me:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DENNIS-CODES)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mwangi-dev/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dennis@ngeni.io)
-
-
-<br />
-
-### 👨‍💻 Programming languages & Frameworks
-
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://github.com/DENNIS-CODES)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/DENNIS-CODES)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/DENNIS-CODES)
-[![Pine Script](https://img.shields.io/badge/-Pine%20Script-0D3461?logo=tradingview&logoColor=white)](https://github.com/DENNIS-CODES)
-[![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://github.com/DENNIS-CODES)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/DENNIS-CODES)
-[![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)](https://github.com/DENNIS-CODES)
-[![React](https://img.shields.io/badge/-React-%2320232a?logo=react&logoColor=%2361DAFB)](https://github.com/DENNIS-CODES)
-[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&logoColor=white)](https://github.com/DENNIS-CODES)
-
-<br />
-
-<details>
-<summary>📊 Wakatime Stats</summary>
-[![wakatime](https://wakatime.com/badge/user/c0971448-fd44-49e6-a4cd-84cb788254c2.svg)](https://wakatime.com/@c0971448-fd44-49e6-a4cd-84cb788254c2)
-</details>
-
-<br />
-
-# on play
-<details>
-<p>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tgnwjszvmdjuof7uuziii3n6y4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true))" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DENNIS-CODES&theme=onedark&row=1&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
-</details>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DENNIS-CODES.DENNIS-CODES" alt="visitors"/>
+</p>
+
+---
+
+## 🎮 What I Code When I'm Not Working:
+
+- **Side Projects**: Exploring AI in blockchain, creating **crypto memes** trading bots, and experimenting with **smart contract games**.
+- **Gaming Projects**: I’m building a decentralized game that integrates NFTs as in-game assets.
+
+---
+
+_If you enjoyed my profile, feel free to ⭐ my repositories and let’s collaborate on the next big thing in blockchain and fintech!_ 🚀
