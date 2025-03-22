@@ -9,16 +9,6 @@
 
 ---
 
-## 🌍 About Me:
-
-I'm a seasoned **CTO** and **Full-Stack Software Engineer** with over **7+ years of experience** in **blockchain**, **DeFi**, **fintech**, and **AI-driven** solutions. I specialize in **building scalable systems**, leading **high-impact projects**, and creating innovative solutions that push the boundaries of technology.
-
-- 🔧 **Currently Working On**: Multi-chain wallet integrations, DeFi & Centralised exchanges, and **H**igh **F**requency **T**rading bots.
-- 🌱 **Learning**: Staying ahead with Rust, Zero-Knowledge Proofs, and AI in blockchain.
-- 🎮 **Fun Fact**: When I'm not coding, I enjoy gaming and deep-diving into the latest crypto trends!
-
----
-
 ## ⚡ Tech Stack:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
