@@ -64,20 +64,3 @@
 </div>
 
 ---
-
-## 💬 Fun Fact:
-
-When I'm not coding, I’m probably **exploring crypto trends**, binge-watching **sci-fi shows**, or **gaming**. Also, if you ever want to talk **blockchain memes** or **fun crypto facts**, hit me up!
-
----
-
-## 📬 Contact Me:
-
-<p align="center">
-  <a href="https://github.com/DENNIS-CODES"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/dennis-mwangi-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dennis@ngeni.io"><img src="https://img.shields.io/badge/Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://t.me/dennismwangi"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
-
----
