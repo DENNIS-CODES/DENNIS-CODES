@@ -1,10 +1,5 @@
 ![](./public/logo.png)
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hi, I'm Dennis Mwangi 🚀
-</h1>
-
 <p align="center">
 <a href="https://github.com/DENNIS-CODES">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Dennis;+Welcome+to+My+GitHub+Profile!;Blockchain+Developer;Full-Stack+Web3+Developer;7%2B+years+of+coding+experience;Building+Fintech+and+DeFi+Innovations;Always+learning+and+innovating&font=Pacifico&center=true&width=750&height=120&color=FFA500&vCenter=true&size=45">
