@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DENNIS-CODES">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=850&height=90&lines=Senior+Web+Engineer;Trading+Systems+%C2%B7+Perpetuals+%C2%B7+Web3;I+turn+market+data+into+interfaces;Rust+%C2%B7+TypeScript+%C2%B7+Solidity;7%2B+years+shipping+production+systems" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=850&height=90&lines=Senior+Fullstack+Engineer;Web3+%C2%B7+Fintech+%C2%B7+AI+%C2%B7+Trading+Systems;I+build+end-to-end+systems%2C+not+just+UIs;Rust+%C2%B7+TypeScript+%C2%B7+Go;7%2B+years+shipping+production+systems" alt="Typing headline" />
   </a>
 </p>
 
@@ -87,12 +87,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DENNIS-CODES/DENNIS-CODES/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
-</p>
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DENNIS-CODES&hide_border=true&background=0d1117&stroke=26324A&ring=FFA500&fire=FF8A00&currStreakLabel=FFA500&sideLabels=B8C4D4&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=3FB950" alt="GitHub streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:22D3EE&height=120&section=footer" width="100%" alt="" />
