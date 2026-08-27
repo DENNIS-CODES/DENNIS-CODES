@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DENNIS-CODES">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=850&height=90&lines=Senior+Web+Engineer;Trading+Systems+%2B+Web3+Builder;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=850&height=90&lines=Senior+Web+Engineer;Trading+Systems+%C2%B7+Perpetuals+%C2%B7+Web3;I+turn+market+data+into+interfaces;Rust+%C2%B7+TypeScript+%C2%B7+Solidity;7%2B+years+shipping+production+systems" alt="Typing headline" />
   </a>
 </p>
 
@@ -29,6 +29,7 @@
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
     </td>
@@ -85,14 +86,13 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DENNIS-CODES/DENNIS-CODES/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+  <img src="https://raw.githubusercontent.com/DENNIS-CODES/DENNIS-CODES/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
 </p>
 
-## 📈 Activity
+## 🔥 Streak
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DENNIS-CODES&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DENNIS-CODES&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=DENNIS-CODES&hide_border=true&background=0d1117&stroke=26324A&ring=FFA500&fire=FF8A00&currStreakLabel=FFA500&sideLabels=B8C4D4&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=3FB950" alt="GitHub streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:22D3EE&height=120&section=footer" width="100%" alt="" />
