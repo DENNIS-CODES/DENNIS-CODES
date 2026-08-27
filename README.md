@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DENNIS-CODES">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=850&height=90&lines=Senior+Web+Engineer;Trading+Systems+%C2%B7+Perpetuals+%C2%B7+Web3;I+turn+market+data+into+interfaces;Rust+%C2%B7+TypeScript+%C2%B7+Solidity;7%2B+years+shipping+production+systems" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=850&height=90&lines=Senior+Web+Engineer;Trading+Systems+%2B+Web3+Builder;TypeScript+%7C+Rust+%7C+Go+%7C+Solidity" alt="Typing intro" />
   </a>
 </p>
 
@@ -85,13 +85,17 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DENNIS-CODES/DENNIS-CODES/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DENNIS-CODES/DENNIS-CODES/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DENNIS-CODES/DENNIS-CODES/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/DENNIS-CODES/DENNIS-CODES/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </p>
 
 ## 📈 Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DENNIS-CODES&bg_color=0d1117&color=FFA500&line=22D3EE&point=E6EDF3&area=true&area_color=FFA500&hide_border=true" alt="Activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DENNIS-CODES&bg_color=0d1117&color=FFA500&line=22D3EE&point=E6EDF3&area=true&area_color=FFA500&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:22D3EE&height=120&section=footer" width="100%" alt="" />
