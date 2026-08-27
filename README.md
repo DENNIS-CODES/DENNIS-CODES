@@ -91,7 +91,8 @@
 ## 📈 Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DENNIS-CODES&bg_color=0d1117&color=FFA500&line=22D3EE&point=E6EDF3&area=true&area_color=FFA500&hide_border=true" alt="Contribution activity graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DENNIS-CODES&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DENNIS-CODES&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:22D3EE&height=120&section=footer" width="100%" alt="" />
